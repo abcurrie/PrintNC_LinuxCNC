@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Name=launch ABC3axis
+Exec=linuxcnc /home/abcurrie/linuxcnc/configs/ABC3axis/ABC3axis.ini
+Type=Application
+Comment=Desktop Launcher for LinuxCNC config made by PNCconf
+Icon=/usr/share/linuxcnc/linuxcncicon.png
